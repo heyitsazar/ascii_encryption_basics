@@ -2,6 +2,8 @@
 
 This Python script performs encryption and decryption of ASCII messages using a transposition cipher. It takes an original message and a key as inputs, encrypts the message, and then decrypts it back using the same key. The encryption process involves converting characters to ASCII values, then to binary, and rearranging them based on the given key. Decryption reverses this process.
 
+Find more detailed explanation from [my blog post](https://azarmamiyev.me/blogs/transposition_cipher/).
+
 ## How to Use
 
 1. Clone the repository or download the Python script.
